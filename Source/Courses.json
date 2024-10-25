@@ -1,0 +1,21 @@
+[
+    {
+      "id": "1",
+      "title": "React for Beginners",
+      "level": "Beginner",
+      "description": "Learn React from scratch."
+    },
+    {
+      "id": "2",
+      "title": "Advanced JavaScript",
+      "level": "Advanced",
+      "description": "Deep dive into JavaScript."
+    },
+    {
+      "id": "3",
+      "title": "Full-Stack Web Development",
+      "level": "Intermediate",
+      "description": "Master both frontend and backend."
+    }
+  ]
+  

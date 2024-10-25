@@ -1,0 +1,25 @@
+.testimonials {
+    padding: 4rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #e0f7fa;
+
+  }
+
+  .testimonials h2{
+    font-size: 2rem;
+  }
+  
+  .testimonials-grid {
+    display: flex;
+    gap: 2rem;
+    justify-content: center;
+  }
+  
+  .testimonial-card {
+    background: white;
+    padding: 2rem;
+    border-radius: 8px;
+    text-align: center;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  

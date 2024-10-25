@@ -1,0 +1,25 @@
+.why-zidio {
+    padding: 4rem;
+    background-color: #e0f7fa;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+  }
+
+  .why-zidio h2{
+    font-size: 2rem;
+  }
+  
+  .features-grid {
+    display: flex;
+    gap: 2rem;
+    justify-content: center;
+  }
+  
+  .feature {
+    background: white;
+    padding: 2rem;
+    text-align: center;
+    border-radius: 8px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
